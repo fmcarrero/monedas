@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "Monedero";
+}
+
+<div class="jumbotron">
+    <h1>Monedero</h1>
+    <form method="post" action="/Home/AgregarMoneda">
+
+       <label>Tipo de  Moneda</label>
+        <select id="TipoMoneda" name="TipoMoneda" class="form-control" required>
+            <option value="">Seleccione un tipo de moneda</option>
+        </select>
+        <label>Cantidad</label>
+        <input type="number" id="Cantidad" name="Cantidad" class="form-control" required/>
+        <button type="submit" class="btn btn-primary">Guardar</button>
+    </form>
+
+    <label>Total en la alcancia</label>
+    <input id="total"class="form-control" type="number" />
+    <label>Resumen</label>
+    <br />
+    
+    <table id="detalles" class="table table-hover">
+        <thead>
+            <tr>
+                <th>Tipo Moneda</th>
+                <th>Cantidad</th>
+
+            </tr>
+        </thead>
+        <tbody>
+          
+        </tbody>
+    </table>
+
+</div>
+
+@section scripts
+{
+<script src="~/Scripts/Moneda/Home/Index.js"></script>
+}

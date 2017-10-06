@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<monedas>
+  <TipoMoneda moneda="3">
+    <cantidad>7</cantidad>
+    <tipomoneda>3</tipomoneda>
+  </TipoMoneda>
+  <TipoMoneda moneda="2">
+    <cantidad>8</cantidad>
+    <tipomoneda>2</tipomoneda>
+  </TipoMoneda>
+  <TipoMoneda moneda="2">
+    <cantidad>9</cantidad>
+    <tipomoneda>2</tipomoneda>
+  </TipoMoneda>
+  <TipoMoneda moneda="2">
+    <cantidad>4</cantidad>
+    <tipomoneda>2</tipomoneda>
+  </TipoMoneda>
+  <TipoMoneda moneda="4">
+    <cantidad>7</cantidad>
+    <tipomoneda>4</tipomoneda>
+  </TipoMoneda>
+  <TipoMoneda moneda="3">
+    <cantidad>4</cantidad>
+    <tipomoneda>3</tipomoneda>
+  </TipoMoneda>
+  <TipoMoneda moneda="1">
+    <cantidad>7</cantidad>
+    <tipomoneda>1</tipomoneda>
+  </TipoMoneda>
+  <TipoMoneda moneda="3">
+    <cantidad>4</cantidad>
+    <tipomoneda>3</tipomoneda>
+  </TipoMoneda>
+  <TipoMoneda moneda="2">
+    <cantidad>8</cantidad>
+    <tipomoneda>2</tipomoneda>
+  </TipoMoneda>
+  <TipoMoneda moneda="3">
+    <cantidad>86</cantidad>
+    <tipomoneda>3</tipomoneda>
+  </TipoMoneda>
+  <TipoMoneda moneda="2">
+    <cantidad>6</cantidad>
+    <tipomoneda>2</tipomoneda>
+  </TipoMoneda>
+  <TipoMoneda moneda="3">
+    <cantidad>7</cantidad>
+    <tipomoneda>3</tipomoneda>
+  </TipoMoneda>
+  <TipoMoneda moneda="2">
+    <cantidad>7</cantidad>
+    <tipomoneda>2</tipomoneda>
+  </TipoMoneda>
+</monedas>
